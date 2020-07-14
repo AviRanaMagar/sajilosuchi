@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Sajilo Suchi</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Business</string>
+    <string name="slide_1_desc">Platform to update your current transaction!</string>
+
+    <string name="slide_2_title">Transactions</string>
+    <string name="slide_2_desc">Save your every recieved product!</string>
+
+    <string name="slide_3_title">Analysis</string>
+    <string name="slide_3_desc"> Analyse your everyday transactions!</string>
+
+    <string name="slide_4_title">Note Taking</string>
+    <string name="slide_4_desc"> Add quick short note!</string>
+
+    <string name="slide_5_title">Calculator</string>
+    <string name="slide_5_desc">Perform calculations of your daily transactions!</string>
+
+    <string name="slide_6_title">Searh Info</string>
+    <string name="slide_6_desc">Search quickly your data!</string>
+
+    <string name="abouttitle"><b><u>Developer</u></b></string>
+
+    <string-array name="category_arrays">
+        <item>Choose Category</item>
+        <item>Food</item>
+        <item>Cosmetics</item>
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Medicine</item>
+        <item>Equipment</item>
+        <item>Entertainment</item>
+        <item>Housing</item>
+        <item>Stationary</item>
+        <item>Any Other</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_tab">firstTab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_data_entry_tab">DataEntryTab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

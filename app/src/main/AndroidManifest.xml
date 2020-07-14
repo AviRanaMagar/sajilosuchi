@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="project.lenovo.slidewalkthroughdemo">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name_nepali"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeMain">
+        <activity
+            android:name=".WelcomeActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".DataInput"
+            android:label="@string/purtitle"
+            android:theme="@style/AppThemeMain"/>
+        <activity
+            android:name=".PurchaseDetails"
+            android:label="@string/purdesc" />
+        <activity
+            android:name=".DataOutput"
+            android:label="@string/saltitle" />
+        <activity
+            android:name=".SalesDetails"
+            android:label="@string/saledesc" />
+        <activity
+            android:name=".Calculator"
+            android:label="@string/nepcalcula"
+            android:theme="@style/AppTheme.PopupTheme" />
+        <activity
+            android:name=".NoteTaking"
+            android:label="@string/nepalinote"
+            android:theme="@style/AppTheme.PopupTheme" />
+        <activity
+            android:name=".Graph"
+            android:label="@string/graphanal" />
+        <activity
+            android:name=".PopUp"
+            android:label="@string/about"
+            android:theme="@style/AppTheme.PopupTheme" />
+        <activity android:name=".ContactDetails"
+            android:label="@string/savecontact"/>
+
+        <activity android:name=".Information"
+            android:label="@string/infonepali"/>
+    </application>
+
+</manifest>

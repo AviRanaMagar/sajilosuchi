@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="business">ब्यबसाय </string>
+    <string name="busdesc">तपाइको ब्यबसायको ख्याल राख्ने मध्यम </string>
+
+    <string name="transnep">कारोबार </string>
+    <string name="transnepdesc">हरेक कारोबारको जानकारी राख्ने </string>
+
+    <string name="analysenep">आफ्नो ब्यबसायको मुल्यांकन गर्नुहोस </string>
+
+    <string name="remember">छोटो सजिलो नोट बनाउन मिल्ने </string>
+
+    <string name="hisab">हिसाब किताब रखनालाई </string>
+
+    <string name="search">खोज्नुस </string>
+    <string name="khojna">आफुले राखेको दाता खोज्नलाई </string>
+
+
+    <string name="app_name_nepali">सजिलो सुची </string>
+    <string name="main_title">सुची ब्यबस्थापन </string>
+    <string name="purtitle">किनेको सुची </string>
+    <string name="saltitle">बेचेको सुची  </string>
+    <string name="purdesc"> किनेको बृस्तृत  </string>
+    <string name="saledesc">बेचेको बृस्तृत </string>
+    <string name="infonepali">कारोबार जानकारी  </string>
+    <string name="graphanal">मुल्यांकन </string>
+    <string name="nepalinote">नोट  </string>
+    <string name="nepcalcula">क्यालकुलेटर </string>
+    <string name="savedet">ग्राहक</string>
+
+    <string name="pname">बस्तुको नाम </string>
+    <string name="pcategory">बस्तु बिभाग </string>
+    <string name="pqnty">मात्रा</string>
+    <string name="pprice">बस्तुको मूल्य </string>
+    <string name="save"> किनेको </string>
+    <string name="savek">बेचेको </string>
+    <string name="image">चित्र </string>
+    <string name="one">१ </string>
+    <string name="two">२</string>
+    <string name="three">३ </string>
+    <string name="four">४</string>
+    <string name="five">५</string>
+    <string name="six">६</string>
+    <string name="seven">७</string>
+    <string name="eight">८</string>
+    <string name="nine">९</string>
+    <string name="ten">०</string>
+
+    <string name="developer">विकासकर्ता</string>
+    <string name="avi">अविलाषा राना </string>
+    <string name="sabita">सबिता जोशी</string>
+    <string name="dibya">दिव्या पाण्डे </string>
+
+    <string name="delte">मेटाउनु </string>
+    <string name="savee">राख्नुस</string>
+    <string name="savecontact">ग्राहक सम्पर्क</string>
+    <string name="name">नाम लेख्नुस </string>
+    <string name="number">नम्बर लेख्नुस</string>
+    <string name="loc">स्थान लेख्नुस</string>
+
+    <string name="savedata">राखेको सुची</string>
+    <string name="enterdata"></string>
+
+    <string name="about">हाम्रो बारे </string>
+    <string name="takenote">नोट राख्नुस</string>
+
+    <string name="salegraph">किेचेको मुल्यांकन </string>
+    <string name="purgraph">किनेको मुल्यांकन </string>
+    <string name="point">पोइन्ट थ्प्नुस </string>
+
+    <string name="nextnepali">अर्को </string>
+    <string name="skipnep">छाड्नुस </string>
+
+    <string name="findinfo">जानकारीको खोजि </string>
+
+    <string-array name="division">
+        <item>बिभाग छान्नुहोस् </item>
+        <item>खाना</item>
+        <item>कस्मेटिक </item>
+        <item>इलेक्ट्रोनिक्स </item>
+        <item>बस्त्र </item>
+        <item>औसधि </item>
+        <item>उपकरण </item>
+        <item>मनोरंजन </item>
+        <item>आवास </item>
+        <item>स्टेसनरी </item>
+        <item>खेलकुद </item>
+        <item>अन्य </item>
+    </string-array>
+
+<string name="namesalle">
+    बस्तुको नाम : कुकिज \n
+    बस्तु बिभाग  : खाना \n
+    मात्रा : १०  \n
+    बस्तुको मूल्य : १०००  \n
+    ग्राहक :सिता \n
+    मिति  : 05/20/2017
+</string>
+
+</resources>
